@@ -9,7 +9,7 @@ license = "GPL-3.0-only"
 version = "0.3.4"
 homepage = "https://github.com/hakusoda/NIKOMAIL"
 repository = "https://github.com/hakusoda/NIKOMAIL"
-rust-version = "1.79"
+rust-version = "1.85"
 
 [workspace.dependencies]
 async-once-cell = "0.5.3"

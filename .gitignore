@@ -14,5 +14,5 @@ Cargo.lock
 *.pdb
 
 .env
-.cargo/
+.cargo/*
 .DS_STORE
